@@ -1,7 +1,12 @@
-🎓 Bio: Hi there! I'm a passionate student at Amrita Vishwa Vidyapeetham, pursuing a major in Computer Science and Engineering (CSE). My academic journey is fueled by a relentless curiosity to explore the ever-evolving world of technology and its limitless possibilities.
+# ✨ About Me:
+💫 At present working on Web Dev<br>⚡ Learning AI ML<br>🎓 Student at Amrita Vishwa Vidyapeetham<br>💡 Member at amFOSS
 
-🎵 Music is my other love, with rap and jazz taking center stage on my playlist. The rhythm and storytelling in these genres resonate with my creative side and keep me inspired.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_samurai_shiba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kk-surendran/]) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/kksurendran06]) 
 
-💡 Problem-solving is at the core of my being. Whether it's cracking complex coding challenges or finding innovative solutions to real-world issues, I thrive on the excitement of tackling problems head-on. The thrill of unraveling intricate puzzles and building elegant software solutions keeps me motivated.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-💻 Outside of academics, I live and breathe coding. It's not just a skill; it's a lifestyle. I'm constantly exploring new programming languages and technologies, pushing the boundaries of what's possible, and embracing the ever-changing landscape of computer science.
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=globalnebula&theme=nightowl&hide_border=false)](https://streak-stats.demolab.com/?user=kksurendran06&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kksurendran06&layout=compact&theme=vision-friendly-dark)
