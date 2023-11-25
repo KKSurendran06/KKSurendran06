@@ -14,3 +14,5 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kksurendran06&theme=nightowl&hide)<br>
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=kksurendran06&theme=nightowl&hide_border=false)<br>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kksurendran06&layout=compact&theme=vision-friendly-dark)
+
+[![Profile View](https://visitcount.itsvg.in/api?id=KKSurendran06&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
