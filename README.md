@@ -24,6 +24,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kksurendran06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+### 😂 Random Meme 
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 ###
 
 [![Profile View](https://visitcount.itsvg.in/api?id=KKSurendran06&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
