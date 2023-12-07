@@ -29,4 +29,4 @@
 
 ###
 
-[![Profile View](https://visitcount.itsvg.in/api?id=KKSurendran06&label=Profile%20Views&color=10&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![Profile View](https://visitcount.itsvg.in/api?id=KKSurendran06&label=Profile%20Views&color=10&icon=0&pretty=true)
