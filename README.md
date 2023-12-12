@@ -29,4 +29,4 @@
 
 ###
 
-![Profile View](https://visitcount.itsvg.in/api?id=KKSurendran06&label=Profile%20Views&color=10&icon=0&pretty=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kksurendran06&label=Profile%20views&color=0e75b6&style=flat" alt="kksurendran06" /> </p>
